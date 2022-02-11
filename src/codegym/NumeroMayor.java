@@ -1,4 +1,4 @@
-package codegymejemplos;
+package codegym;
 
 /* 
 Maximum of four numbers

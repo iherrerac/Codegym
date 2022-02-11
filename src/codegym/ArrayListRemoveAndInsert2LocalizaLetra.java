@@ -1,4 +1,4 @@
-package codegymejemplos;
+package codegym;
 
 /*
  * 	The fix method should remove all words containing the letter "r" from the list. 

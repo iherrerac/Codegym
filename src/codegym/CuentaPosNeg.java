@@ -1,4 +1,4 @@
-package codegymejemplos;
+package codegym;
 
 /* 
 Positive and negative numbers

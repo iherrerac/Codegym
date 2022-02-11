@@ -1,4 +1,4 @@
-package codegymejemplos;
+package codegym;
 
 /* 
 Do we have a pair?

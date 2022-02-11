@@ -1,4 +1,4 @@
-package codegymejemplos;
+package codegym;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package codegymejemplos;
+package codegym;
 
 public class DistanciaEntrePuntos {
 

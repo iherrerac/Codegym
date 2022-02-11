@@ -1,4 +1,4 @@
-package codegymejemplos;
+package codegym;
 
 /* 
 Rule of the triangle

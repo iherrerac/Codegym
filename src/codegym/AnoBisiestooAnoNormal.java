@@ -1,4 +1,4 @@
-package codegymejemplos;
+package codegym;
 
 /* 
 Number of days in the year
